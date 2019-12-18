@@ -8,10 +8,10 @@ while true:
         print("enter valid input")
         if choice==1:
             choice_name='rock'
-            elif choice==2:
-                choice_name='paper'
-                else
-                  choice_name="scissor'
-                  print("user choice is :"+choice_name)
-                  print("now it's computer turn.....")
+        elif choice==2:
+            choice_name='paper'
+        else:
+            choice_name="scissor"
+            print("user choice is :"+choice_name)
+            print("now it's computer turn.....")
             
