@@ -14,3 +14,4 @@ while true:
             choice_name="scissor"
             print("user choice is :"+choice_name)
             print("now it's computer turn.....")
+3
